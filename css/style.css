@@ -1,0 +1,31 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p,a,input,label,textarea,span,ul,li{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+#header .nav{
+    
+}
+#intro .jumbotron{
+    height: 70pvh;
+}
+#intro .container{
+    margin: 0 auto;
+}
+#intro h1{
+    font-size: 52px;
+font-weight: 900;
+
+}
+.logo{
+    width: 30px;
+}
+.btn{
+    background-color: aqua;
+    width: 100px;
+    height: 80px;
+    color: white;
+padding: 20px 20px;
+border-radius: 10px;
+}
